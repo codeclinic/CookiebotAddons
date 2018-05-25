@@ -3,7 +3,7 @@
  * Plugin Name: ClinicalWP Cookiebot WP-Fixes
  * Author: Code Clinic InternetAgentur
  * Description: Adding support & media optimisations for Cookiebot
- * Version 1.3.0
+ * Version: 1.3.0
  * Author URI: http://codeclinic.de
  * Text Domain: Clinical-CMS-Core
  * Domain Path: /languages/
