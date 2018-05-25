@@ -52,8 +52,8 @@ class Cookiebot_Addons_Framework {
 		 * Load CookieBot page optimisations
 		 * remove media attachment pages
 		 */
-		add_filter( 'rewrite_rules_array', array($this, 'clinicalWP_rmvattachment_permalink' );
-		add_filter( 'attachment_link', array($this, 'clinicalWP_rmvattachment_link' );
+		add_filter( 'rewrite_rules_array', array($this, 'clinicalWP_rmvattachment_permalink' ));
+		add_filter( 'attachment_link', array($this, 'clinicalWP_rmvattachment_link' ));
 	}
 
 	function clinicalWP_rmvattachment_permalink( $rules ) {
