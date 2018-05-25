@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Cookiebot Addons Framework
- * Description: Adding support for Cookiebot
+ * Description: Adding support & media optimisations for Cookiebot
  * Author: Phill Healey @ CodeClinic
  * Original Authors: Johan Holst Nielsen & Aytac Kokus
  * Version: 1.2.1
