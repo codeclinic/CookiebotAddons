@@ -1,10 +1,16 @@
 <?php
 /**
- * Plugin Name: Cookiebot Addons Framework
+ * Plugin Name: ClinicalWP Cookiebot WP-Fixes
+ * Author: Code Clinic InternetAgentur
  * Description: Adding support & media optimisations for Cookiebot
+ * Version 1.3.0
+ * Author URI: http://codeclinic.de
+ * Text Domain: Clinical-CMS-Core
+ * Domain Path: /languages/
+ * Forked Plugin Name: Cookiebot Addons Framework
  * Author: Phill Healey @ CodeClinic
  * Original Authors: Johan Holst Nielsen & Aytac Kokus
- * Version: 1.2.1
+ * Forked Version: 1.2.0
  */
 
 namespace cookiebot_addons_framework;
